@@ -1,6 +1,6 @@
-## Opa, tudo bem? Bem vindo ao meu Perfil
+## Opa, tudo bem? Bem vindo ao meu Perfil!
 
-Me chamo <b>Danilo Ferreira</b>, sou DEV sem nenhum vínculo com empresa.
+Me chamo <b>Danilo Ferreira</b>, sou DEV sem nenhum vínculo com empresa no momento.
 
 🔭 Aqui tem você encontrará alguns programas que desenvolvi e projetos que desenvolvi! 🚀🚀 </br>
 🌱 No atual momento estou estudando React, TypeScript e NodeJs ✏️💻 </br>
@@ -29,10 +29,16 @@ Me chamo <b>Danilo Ferreira</b>, sou DEV sem nenhum vínculo com empresa.
 </br>
 <div align="center" style="display: flex-column">
 <h3>Contatos</h3>
-<a  href = "mailto:daniloferreiradasilva345@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a  href="https://www.linkedin.com/in/danilofdasilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a target="_blank" href="mailto:daniloferreiradasilva345@gmail.com">
+<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a target="_blank" href="https://www.linkedin.com/in/danilofdasilva">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a> 
 
-<a  href="https://www.facebook.com/danilofsilva2001" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+<a target="_blank" href="https://www.facebook.com/danilofsilva2001">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" >
+</a> 
 
  </div>
 </div>
