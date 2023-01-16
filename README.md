@@ -8,7 +8,7 @@ Me chamo <b>Danilo Ferreira</b>, sou DEV sem nenhum vínculo com empresa no mome
 <div style="display:block;" align="center"></br>
 <div align="center">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=daniloeb19&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloeb19&layout=compact&langs_count=7&theme=react"/>
+  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/>
   <img width='480em' src='https://github-readme-streak-stats.herokuapp.com?user=daniloeb19&theme=react&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
 </div>
 
