@@ -1,6 +1,6 @@
 ## Opa, tudo bem? Bem vindo ao meu Perfil!
 
-Me chamo <b>Danilo Ferreira</b>, sou DEV sem nenhum vínculo com empresa no momento.
+Me chamo <b>Danilo Ferreira</b>, sou DEV na [Accenture Brasil](https://www.accenture.com/br-pt).
 
 🔭 Aqui tem você encontrará alguns programas que desenvolvi e projetos que desenvolvi! 🚀🚀 </br>
 🌱 No atual momento estou estudando React, TypeScript e NodeJs ✏️💻 </br>
